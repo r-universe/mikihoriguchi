@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SSRMST"]
+	path = SSRMST
+	url = https://github.com/cran/SSRMST
+	shallow = true
+	registered = true
+[submodule "surv2sampleComp"]
+	path = surv2sampleComp
+	url = https://github.com/cran/surv2sampleComp
+	shallow = true
+	registered = true
+[submodule "survAH"]
+	path = survAH
+	url = https://github.com/cran/survAH
+	shallow = true
+	registered = true
+[submodule "survAWKMT2"]
+	path = survAWKMT2
+	url = https://github.com/cran/survAWKMT2
+	shallow = true
+	registered = true
+[submodule "survRM2adapt"]
+	path = survRM2adapt
+	url = https://github.com/cran/survRM2adapt
+	shallow = true
+	registered = true
+[submodule "survRM2perm"]
+	path = survRM2perm
+	url = https://github.com/cran/survRM2perm
+	shallow = true
+	registered = true
